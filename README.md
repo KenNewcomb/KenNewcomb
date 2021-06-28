@@ -1,9 +1,9 @@
 ### Hi there! 👋
 
-I'm Ken, a computational scientist. Here's a little bit about me:
+Here's a bit about me:
 
-- 🔭 I’m currently working on an SEIR model of COVID-19 transmission.
-- 🌱 I’m learning more about reinforcement learning and training agents to act optimally. I'm also quite passionate about cryptocurrency and cryptography in general.
-- 👯 I’m looking to collaborate on any machine learning projects.
+- 🔭 I’m currently working on an SEIR model of COVID-19 transmission with Dr. Edwin Michael at the University of South Florida.
+- 🌱 Lately, I’ve been diving into reinforcement learning and training algorithms to learn optimal policies. I'm also quite passionate about cryptocurrency and cryptography in general.
+- 👯 I’m looking to collaborate on any and all machine learning/artificial intelligence projects.
 - 📫 How to reach me: kennewcomb@protonmail.com
 - ⚡ Fun fact: I'm a huge fan of [Nujabes](https://www.youtube.com/watch?v=etZdKlEckTw).
