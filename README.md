@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-Here's a bit about me:
+Here's a few bits about me:
 
 - 🔭 I’m currently working on an SEIR model of COVID-19 transmission with Dr. Edwin Michael at the University of South Florida.
 - 🌱 Lately, I’ve been diving into reinforcement learning and training algorithms to learn optimal policies. I'm also quite passionate about cryptocurrency and cryptography in general.
